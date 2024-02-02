@@ -1,0 +1,5 @@
+PUBLIC KEY: 703edbacd2c1816123673844200afc80 (api key)
+PRIVATE KEY: dd90dfe66172bdb1478b5c320dfa2f9811ed6736
+HASH VALUE: cbf28ad596f71ff0ecfede4847071b1c
+
+http://gateway.marvel.com/v1/public/comics?ts=1&apikey=703edbacd2c1816123673844200afc80&hash=cbf28ad596f71ff0ecfede4847071b1c
